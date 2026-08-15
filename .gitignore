@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Documents
+*.pdf
+
+# Temporary Microsoft Office lock files
+~$*.docx
+
+# Assignment 5 was moved to Day 4; ignore the locked legacy Office copy.
+Day 5/
+
+# Local source question sheets; solved work is organised by day outside this folder.
+Assignments/
