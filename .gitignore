@@ -15,8 +15,7 @@ wheels/
 # Temporary Microsoft Office lock files
 ~$*.docx
 
-# Assignment 5 was moved to Day 4; ignore the locked legacy Office copy.
-Day 5/
+
 
 # Local source question sheets; solved work is organised by day outside this folder.
 Assignments/

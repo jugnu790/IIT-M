@@ -3,5 +3,8 @@ numpy
 matplotlib
 seaborn
 jupyterlab
+ipykernel
 openpyxl
 scipy
+torch
+scikit-learn

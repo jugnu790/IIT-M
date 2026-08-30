@@ -1,28 +1,315 @@
-# IIT-M Data Analysis Assignments
+<div align="center">
 
-Assignments are organised by day. Each assignment contains its own `code`, `data`, `output`, and `report` folders, with a README describing the submitted work.
+📊 IIT-M Data Analysis Portfolio
 
-A structured collection of Python data-analysis assignments completed as part of the IIT-M coursework. The repository is organized day-wise and contains Jupyter notebooks, assignment documentation, datasets, reports, and generated outputs where applicable.
+Python • NumPy • Pandas • Statistics • EDA • Visualization • PCA
 
-## 📚 Repository Overview
+<a href="https://github.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=IIT-M+Data+Analysis+Assignments;Python+%7C+NumPy+%7C+Pandas+%7C+SciPy;Exploratory+Data+Analysis+%7C+Visualization;PCA+%7C+Tensor+Python+%7C+Statistics;Learning+by+Building+%26+Analyzing" alt="Typing animation" />
+</a>
 
-The project is organized into four working days:
+<p>
+  <img src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=uv&logoColor=white" alt="uv"/>
+  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-```text
+<p>
+  <strong>A structured, reproducible collection of IIT-M coursework focused on practical Python-based data analysis.</strong>
+</p>
+
+</div>
+
+🧭 About This Repository
+
+This repository contains my IIT-M Data Analysis coursework, organized by learning day and assignment.
+
+The goal is not simply to store completed notebooks. Each assignment is treated as a small analytical project:
+
+Understand the problem
+        ↓
+Implement the solution
+        ↓
+Run & validate the analysis
+        ↓
+Interpret the results
+        ↓
+Document the work
+        ↓
+Commit to Git
+
+The repository will evolve as new coursework, notebooks, reports, datasets, and analytical projects are completed.
+
+✨ What I'm Learning
+
+<table>
+<tr>
+<td width="50%">
+
+🐍 Python & Data Structures
+
+Python fundamentals
+
+Lists and dictionaries
+
+Arrays and indexing
+
+Functions and problem solving
+
+File and data handling
+
+</td>
+<td width="50%">
+
+🔢 Numerical Computing
+
+NumPy arrays
+
+Array slicing
+
+Vectorized operations
+
+Numerical transformations
+
+Tensor-related Python concepts
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧹 Data Analysis
+
+Pandas
+
+Data cleaning
+
+Data transformation
+
+Missing-value handling
+
+CSV / Excel processing
+
+</td>
+<td>
+
+📈 Statistics & Visualization
+
+Statistical analysis
+
+Exploratory Data Analysis
+
+Matplotlib
+
+Seaborn
+
+SciPy
+
+Analytical interpretation
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🧠 Dimensionality Reduction
+
+Principal Component Analysis
+
+Feature transformation
+
+Variance analysis
+
+Interpreting principal components
+
+</td>
+<td>
+
+🛠️ Development Workflow
+
+Jupyter Notebook
+
+VS Code
+
+uv
+
+Virtual environments
+
+Git
+
+GitHub
+
+Reproducible projects
+
+</td>
+</tr>
+</table>
+
+📚 Coursework
+
+Day 1 — NumPy Foundations
+
+Assignment
+
+Focus
+
+Implementation
+
+Assignment 1
+
+NumPy arrays & slicing
+
+numpy_array_slicing.ipynb
+
+Day 2 — Python Fundamentals
+
+Assignment
+
+Focus
+
+Implementation
+
+Assignment 1
+
+Python basics, arrays & dictionaries
+
+python_basics_arrays_dictionaries.ipynb
+
+Day 3 — Data Analysis Practice
+
+Assignment
+
+Status
+
+Assignment 1
+
+🟡 In progress
+
+Assignment 2
+
+🟡 In progress
+
+Assignment 3
+
+🟡 In progress
+
+Assignment 4
+
+🟡 In progress
+
+Assignment 5
+
+🟡 In progress
+
+Assignment 6
+
+🟡 In progress
+
+Assignment status is intentionally kept conservative. A file existing in the repository does not automatically mean the assignment is fully completed and validated.
+
+Day 4 — Clinical Data Analysis
+
+Assignment
+
+Focus
+
+Assignment 1
+
+Patient / clinical data analysis
+
+code/
+
+Analysis notebook
+
+data/
+
+Assignment dataset
+
+output/
+
+Generated analytical outputs
+
+README.md
+
+Assignment documentation
+
+⚠️ Any real or sensitive patient information must remain private and must never be pushed to a public repository without explicit authorization.
+
+Day 5 — Advanced Analysis
+
+Assignment
+
+Focus
+
+Current Artifact
+
+Assignment 1
+
+Coursework solution
+
+report/Assignment_1_solu.docx
+
+Assignment 2
+
+Coursework solution
+
+report/Assignment_2_solu.docx
+
+Assignment 3
+
+Tensor + Python
+
+code/Assignment_3_Tensor_Python.ipynb
+
+Assignment 4
+
+PCA
+
+report/Assignment_4_PCA_solu.docx
+
+Day 6 — PCA
+
+Assignment
+
+Focus
+
+Current Artifact
+
+Assignment 1
+
+PCA
+
+report/Assignment 1 PCA.docx
+
+Assignment 2
+
+PCA implementation
+
+code/Assignment_2_PCA.ipynb
+
+🗂️ Repository Structure
+
 IIT-M/
-├── Day 1/
-│   └── Assignment 1/
+│
+├── 📁 Day 1/
+│   └── 📁 Assignment 1/
 │       ├── README.md
-│       └── code/
+│       └── 📁 code/
 │           └── numpy_array_slicing.ipynb
 │
-├── Day 2/
-│   └── Assignment 1/
+├── 📁 Day 2/
+│   └── 📁 Assignment 1/
 │       ├── README.md
-│       └── code/
+│       └── 📁 code/
 │           └── python_basics_arrays_dictionaries.ipynb
 │
-├── Day 3/
+├── 📁 Day 3/
 │   ├── Assignment 1/
 │   ├── Assignment 2/
 │   ├── Assignment 3/
@@ -30,198 +317,360 @@ IIT-M/
 │   ├── Assignment 5/
 │   └── Assignment 6/
 │
-├── Day 4/
-│   └── Assignment 1/
+├── 📁 Day 4/
+│   └── 📁 Assignment 1/
 │       ├── README.md
-│       ├── code/
+│       ├── 📁 code/
 │       │   └── patient_clinical_data_analysis.ipynb
-│       ├── data/
-│       └── output/
+│       ├── 📁 data/
+│       └── 📁 output/
+│
+├── 📁 Day 5/
+│   ├── 📁 Assignment 1/
+│   │   └── 📁 report/
+│   │       └── Assignment_1_solu.docx
+│   ├── 📁 Assignment 2/
+│   │   └── 📁 report/
+│   │       └── Assignment_2_solu.docx
+│   ├── 📁 Assignment 3/
+│   │   └── 📁 code/
+│   │       └── Assignment_3_Tensor_Python.ipynb
+│   └── 📁 Assignment 4/
+│       └── 📁 report/
+│           └── Assignment_4_PCA_solu.docx
+│
+├── 📁 Day 6/
+│   ├── 📁 Assignment 1/
+│   │   └── 📁 report/
+│   │       └── Assignment 1 PCA.docx
+│   └── 📁 Assignment 2/
+│       └── 📁 code/
+│           └── Assignment_2_PCA.ipynb
 │
 ├── .gitignore
 ├── .python-version
 ├── pyproject.toml
+├── README.md
 ├── requirements.txt
-└── README.md
-```
+└── uv.lock
 
-> The exact contents of individual assignment folders may grow as additional notebooks, reports, datasets, and outputs are completed.
+🛠️ Tech Stack
 
-## 🎯 Objectives
+<div align="center">
 
-The assignments focus on practical Python-based data analysis, including:
+Technology
 
-- Python fundamentals
-- NumPy arrays and array slicing
-- Lists, dictionaries, and data structures
-- Pandas-based data manipulation
-- Data cleaning and transformation
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Data visualization
-- Working with CSV and Excel data
-- Communicating analytical findings through notebooks and reports
+Role
 
-## 🛠️ Technology Stack
+🐍 Python 3.12+
 
-| Technology | Purpose |
-|---|---|
-| Python 3.12+ | Core programming language |
-| uv | Python environment and package management |
-| JupyterLab | Interactive notebook environment |
-| Jupyter Notebook | Assignment execution |
-| NumPy | Numerical computing and array operations |
-| Pandas | Data manipulation and analysis |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| SciPy | Scientific and statistical computing |
-| OpenPyXL | Excel file handling |
-| Git | Version control |
+Programming language
 
-The repository is configured for Python 3.12 through `.python-version`, while `pyproject.toml` requires Python 3.12 or newer.
+🔢 NumPy
 
-## 🚀 Setup
+Numerical computing
 
-### 1. Clone the repository
+🐼 Pandas
 
-```powershell
+Data manipulation
+
+📊 Matplotlib
+
+Visualization
+
+🎨 Seaborn
+
+Statistical visualization
+
+🧮 SciPy
+
+Scientific & statistical computing
+
+📗 OpenPyXL
+
+Excel processing
+
+📓 Jupyter
+
+Interactive analysis
+
+⚡ uv
+
+Environment & dependency management
+
+🧑‍💻 VS Code
+
+Development environment
+
+🌿 Git
+
+Version control
+
+🐙 GitHub
+
+Repository hosting
+
+</div>
+
+🚀 Getting Started
+
+1. Clone the repository
+
 git clone <your-repository-url>
 cd IIT-M
-```
 
-### 2. Create the virtual environment
+2. Create the Python environment
 
-```powershell
 uv venv --python 3.12
-```
 
-### 3. Activate the environment
+3. Activate the environment
 
-PowerShell:
-
-```powershell
 .\.venv\Scripts\Activate.ps1
-```
 
-You should see:
+4. Install dependencies
 
-```text
-(IIT-M) PS D:\IIT-M>
-```
-
-### 4. Install dependencies
-
-```powershell
 uv pip install -r requirements.txt
-```
 
-### 5. Verify the environment
+5. Verify dependencies
 
-```powershell
 uv pip check
-```
 
-You should get:
+6. Verify Python and core packages
 
-```text
-All installed packages are compatible
-```
-
-You can also verify the main libraries:
-
-```powershell
 python -c "import pandas, numpy, matplotlib, seaborn, scipy; print('Environment OK')"
-```
 
-## 📓 Jupyter / VS Code
+Expected:
 
-The project is designed to run through Jupyter notebooks in VS Code or JupyterLab.
+Environment OK
 
-Register the environment as a Jupyter kernel:
+📓 Configure Jupyter
 
-```powershell
+Register the project environment as a Jupyter kernel:
+
 python -m ipykernel install --user --name iitm-data-analysis --display-name "IIT-M Data Analysis"
-```
 
-Verify:
+Check installed kernels:
 
-```powershell
 jupyter kernelspec list
-```
 
-The selected kernel should use the project's virtual environment:
+Inside a notebook:
 
-```text
-D:\IIT-M\.venv\Scripts\python.exe
-```
-
-Inside a notebook, the environment can be verified with:
-
-```python
 import sys
+
 print(sys.executable)
-```
 
-## ▶️ Running an Assignment
+The interpreter should point to the project's .venv.
 
-From the repository root:
+▶️ Running an Assignment
 
-```powershell
+From the project root:
+
 .\.venv\Scripts\Activate.ps1
 code .
-```
 
 Then:
 
-1. Open the required `Day X` folder.
-2. Open the required assignment.
-3. Open the notebook inside the `code` folder.
-4. Select the `IIT-M Data Analysis` kernel.
-5. Run the notebook cells.
-6. Review the outputs and findings.
-7. Save the notebook.
+Open the required Day X folder.
 
-For data-driven assignments, keep datasets in the assignment's `data` directory and use relative paths from the notebook location.
+Open the required Assignment Y.
 
-Example:
+Open the notebook inside code/.
 
-```python
+Select the IIT-M Data Analysis kernel.
+
+Run the notebook from top to bottom.
+
+Check outputs and warnings.
+
+Review the analytical conclusions.
+
+Save the notebook/report.
+
+Review Git changes.
+
+Commit the completed assignment.
+
+For data-driven notebooks, prefer relative paths:
+
 import pandas as pd
 
 df = pd.read_csv("data/your_dataset.csv")
-```
 
-## 🧪 Recommended Notebook Structure
+Avoid hard-coded machine-specific paths such as:
 
-For analytical assignments, a consistent notebook structure makes the work easier to understand and review:
+# ❌ Avoid
+pd.read_csv(r"D:\IIT-M\Day 4\Assignment 1\data\data.csv")
 
-```text
-1. Objective
-2. Import Libraries
-3. Load Dataset
-4. Dataset Understanding
-5. Data Cleaning
-6. Data Transformation
-7. Exploratory Data Analysis
-8. Analysis
-9. Visualizations
+🧪 Recommended Notebook Architecture
+
+A consistent analytical structure is used wherever applicable:
+
+01. Objective
+      ↓
+02. Import Libraries
+      ↓
+03. Load Dataset
+      ↓
+04. Understand the Dataset
+      ↓
+05. Data Cleaning
+      ↓
+06. Data Transformation
+      ↓
+07. Exploratory Data Analysis
+      ↓
+08. Statistical / Analytical Work
+      ↓
+09. Visualizations
+      ↓
 10. Key Findings
+      ↓
 11. Conclusion
-```
 
-Use **Markdown cells** for explanations and interpretation, and **Code cells** for implementation.
+Markdown cells
 
-## 📦 Dependencies
+Use Markdown for:
 
-The current project dependency list is maintained in:
+Objectives
 
-```text
+Explanations
+
+Assumptions
+
+Observations
+
+Interpretation
+
+Conclusions
+
+Code cells
+
+Use Code cells for:
+
+Data loading
+
+Cleaning
+
+Calculations
+
+Analysis
+
+Statistical operations
+
+Visualization
+
+Validation
+
+📊 PCA Workflow
+
+The PCA assignments follow the general analytical workflow:
+
+Raw Data
+   │
+   ▼
+Data Cleaning
+   │
+   ▼
+Feature Selection
+   │
+   ▼
+Scaling / Standardization
+   │
+   ▼
+PCA
+   │
+   ├── Explained Variance
+   ├── Principal Components
+   └── Feature Contributions
+   │
+   ▼
+Visualization
+   │
+   ▼
+Interpretation
+
+The important part is not merely running PCA. The results must be interpreted in terms of variance, dimensionality, and the information retained after transformation.
+
+🔐 Data Privacy
+
+This repository may contain coursework involving datasets that resemble real-world clinical or personal data.
+
+Never commit:
+
+Personally identifiable information
+
+Patient identifiers
+
+Medical records
+
+Confidential company information
+
+Passwords or API keys
+
+Private credentials
+
+Unauthorized proprietary datasets
+
+Before every push:
+
+git status
+
+and inspect staged changes:
+
+git diff --cached
+
+If sensitive information is accidentally committed, simply deleting it in a later commit is not enough. Git history may still contain it and the history may need to be rewritten.
+
+🌿 Git Workflow
+
+A clean assignment-level workflow:
+
+# Check changes
+git status
+
+# Review the assignment
+git diff
+
+# Stage the assignment
+git add "Day X/Assignment Y"
+
+# Review staged files
+git diff --cached
+
+# Commit
+git commit -m "Complete Day X Assignment Y"
+
+# Push
+git push
+
+# Confirm clean working tree
+git status
+
+Commit message examples
+
+Complete Day 5 Assignment 3
+Add PCA analysis for Day 6 Assignment 2
+Update Day 4 clinical data analysis
+Add report for Day 5 Assignment 4
+
+Avoid meaningless commits such as:
+
+update
+final
+changes
+done
+test
+
+Good commit messages make the repository history useful.
+
+📦 Dependency Management
+
+Dependencies are maintained in:
+
 requirements.txt
-```
 
-Current core dependencies:
+Core packages include:
 
-```text
 pandas
 numpy
 matplotlib
@@ -229,71 +678,130 @@ seaborn
 jupyterlab
 openpyxl
 scipy
-```
 
-Install them with:
+The project also contains:
 
-```powershell
-uv pip install -r requirements.txt
-```
+pyproject.toml
+uv.lock
+.python-version
 
-## 🔐 Data & Privacy
+The .python-version file keeps the project aligned with Python 3.12, while uv manages the development environment and dependencies.
 
-Do not commit sensitive, confidential, or personally identifiable information to a public repository.
+🧹 Git Hygiene
 
-In particular, datasets containing real patient or other private information should not be publicly uploaded unless they are explicitly safe and authorized for public distribution.
+The repository excludes common local/generated files:
 
-The repository ignores common local/environment files such as:
-
-```text
 .venv/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
-```
 
-## 🌿 Git Workflow
+Do not commit:
 
-A simple workflow for each completed assignment:
+.env
+credentials
+API keys
+private datasets
+temporary exports
+large unnecessary generated files
 
-```powershell
-git status
-git add "Day X/Assignment Y"
-git commit -m "Complete Day X Assignment Y"
-git push
-```
+A clean repository is part of a good data-analysis project.
 
-Before pushing, always check:
+📈 Progress
 
-```powershell
-git status
-```
+Day 1  ████████████████████  Completed / committed as applicable
+Day 2  ████████████████████  Completed / committed as applicable
+Day 3  ███████████░░░░░░░░░  In progress
+Day 4  ████████████████████  Completed / committed as applicable
+Day 5  ███████████████░░░░░  In progress
+Day 6  ███████████░░░░░░░░░  In progress
 
-This prevents accidentally committing virtual environments, temporary files, notebook checkpoints, or unrelated changes.
+Progress bars are intentionally approximate. Update them when the underlying assignments are actually completed and committed.
 
-## 📈 Progress
+🎯 Definition of Done
 
-| Day | Status |
-|---|---|
-| Day 1 | 🟢 In progress / completed assignments as committed |
-| Day 2 | 🟢 In progress / completed assignments as committed |
-| Day 3 | 🟢 In progress / completed assignments as committed |
-| Day 4 | 🟢 In progress / completed assignments as committed |
+An assignment should be considered complete only when:
 
-Update this table as the coursework progresses rather than marking assignments complete before they are actually finished.
+Problem statement is understood
 
-## 📌 Notes
+Code is implemented
 
-- Keep the existing project structure consistent.
-- Use the same Python environment for all assignments.
-- Avoid installing packages globally when they belong to this project.
-- Prefer `uv` for environment and dependency management.
-- Keep notebooks reproducible by using relative file paths.
-- Run all relevant notebook cells before committing a completed assignment.
-- Do not commit `.venv` or other generated environment files.
+Notebook runs successfully
 
-## 👤 Author
+No unexplained errors remain
 
-**Deepesh Upadhyay**
+Outputs have been reviewed
 
-This repository is maintained as a personal coursework and learning portfolio for practical data-analysis work.
+Analysis is logically correct
+
+Findings are documented
+
+Report is completed where required
+
+Files are organized correctly
+
+Sensitive data is excluded
+
+Git changes are reviewed
+
+Assignment is committed
+
+Changes are pushed to GitHub
+
+This prevents the repository from becoming a collection of files that merely look finished.
+
+🗺️ Roadmap
+
+Establish Python + uv environment
+
+Organize Day 1–Day 6 coursework
+
+Add notebook/report structure
+
+Add Git workflow
+
+Complete remaining Day 3 assignments
+
+Complete remaining Day 5 assignments
+
+Complete remaining Day 6 assignments
+
+Add assignment-level READMEs consistently
+
+Add polished analytical outputs
+
+Add selected projects to portfolio
+
+Continue expanding the data-analysis toolkit
+
+💡 Project Philosophy
+
+Don't just make the code run. Make the analysis understandable, reproducible, and defensible.
+
+The purpose of this repository is to demonstrate progression from basic Python programming toward practical data analysis.
+
+The focus is on:
+
+Code → Data → Analysis → Visualization → Interpretation → Communication
+
+👤 Author
+
+<div align="center">
+
+Deepesh Upadhyay
+
+IIT-M Coursework • Python • Data Analysis • Statistics
+
+This repository documents my learning journey through practical data-analysis assignments and related analytical work.
+
+</div>
+
+<div align="center">
+
+⭐ If this repository becomes part of your portfolio, keep the work reproducible and the Git history clean.
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Animated footer"/>
+
+</div>
