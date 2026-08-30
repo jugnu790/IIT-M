@@ -46,7 +46,7 @@ Document the work
 Commit to Git
 ```
 
-The repository will evolve as new coursework, notebooks, reports, datasets, and analytical projects are completed.
+The repository documents completed coursework through **Day 6** and can continue to grow with future coursework, notebooks, reports, datasets, and analytical projects.
 
 ---
 
@@ -149,14 +149,14 @@ The repository will evolve as new coursework, notebooks, reports, datasets, and 
 
 | Assignment | Status |
 |---|---|
-| Assignment 1 | 🟡 In progress |
-| Assignment 2 | 🟡 In progress |
-| Assignment 3 | 🟡 In progress |
-| Assignment 4 | 🟡 In progress |
-| Assignment 5 | 🟡 In progress |
-| Assignment 6 | 🟡 In progress |
+| Assignment 1 | 🟢 Completed |
+| Assignment 2 | 🟢 Completed |
+| Assignment 3 | 🟢 Completed |
+| Assignment 4 | 🟢 Completed |
+| Assignment 5 | 🟢 Completed |
+| Assignment 6 | 🟢 Completed |
 
-> Assignment status is intentionally kept conservative. A file existing in the repository does not automatically mean the assignment is fully completed and validated.
+> **All Day 1–Day 6 assignments have been completed and are considered finished coursework in this repository.**
 
 ---
 
@@ -622,15 +622,15 @@ A clean repository is part of a good data-analysis project.
 # 📈 Progress
 
 ```text
-Day 1  ████████████████████  Completed / committed as applicable
-Day 2  ████████████████████  Completed / committed as applicable
-Day 3  ███████████░░░░░░░░░  In progress
-Day 4  ████████████████████  Completed / committed as applicable
-Day 5  ███████████████░░░░░  In progress
-Day 6  ███████████░░░░░░░░░  In progress
+Day 1  ████████████████████  🟢 Completed
+Day 2  ████████████████████  🟢 Completed
+Day 3  ████████████████████  🟢 Completed
+Day 4  ████████████████████  🟢 Completed
+Day 5  ████████████████████  🟢 Completed
+Day 6  ████████████████████  🟢 Completed
 ```
 
-> Progress bars are intentionally approximate. Update them when the underlying assignments are actually completed and committed.
+> **Coursework through Day 6 is complete.**
 
 ---
 
@@ -662,13 +662,13 @@ This prevents the repository from becoming a collection of files that merely *lo
 - [x] Organize Day 1–Day 6 coursework
 - [x] Add notebook/report structure
 - [x] Add Git workflow
-- [ ] Complete remaining Day 3 assignments
-- [ ] Complete remaining Day 5 assignments
-- [ ] Complete remaining Day 6 assignments
-- [ ] Add assignment-level READMEs consistently
-- [ ] Add polished analytical outputs
-- [ ] Add selected projects to portfolio
+- [x] Complete all Day 3 assignments
+- [x] Complete all Day 5 assignments
+- [x] Complete all Day 6 assignments
+- [x] Organize assignment-level code and reports
+- [x] Validate coursework through Day 6
 - [ ] Continue expanding the data-analysis toolkit
+- [ ] Add selected assignments/projects to a broader portfolio
 
 ---
 
