@@ -2,11 +2,9 @@
 
 # 📊 IIT-M Data Analysis Portfolio
 
-### Python • NumPy • Pandas • Statistics • EDA • Visualization • PCA
+### Python • Data Analysis • Statistics • Linear Algebra • PCA • NumPy • Pandas
 
-<a href="https://github.com/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=760&lines=IIT-M+Data+Analysis+Assignments;Python+%7C+NumPy+%7C+Pandas+%7C+SciPy;Exploratory+Data+Analysis+%7C+Visualization;PCA+%7C+Tensor+Python+%7C+Statistics;Learning+by+Building+%26+Analyzing" alt="Typing animation" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=850&lines=IIT-M+Data+Analysis+Coursework;Python+%7C+NumPy+%7C+Pandas+%7C+Statistics;Linear+Algebra+%7C+Probability+%7C+PCA;Exploratory+Data+Analysis+%7C+Visualization;Coursework+Organized+from+Day+1+to+Day+7" alt="Typing SVG" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.12%2B-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -15,12 +13,10 @@
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/uv-261230?style=for-the-badge&logo=uv&logoColor=white" alt="uv"/>
-  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-<p>
-  <strong>A structured, reproducible collection of IIT-M coursework focused on practical Python-based data analysis.</strong>
-</p>
+**A structured collection of IIT-M coursework and practical Python-based data analysis assignments.**
 
 </div>
 
@@ -28,169 +24,41 @@
 
 ## 🧭 About This Repository
 
-This repository contains my **IIT-M Data Analysis coursework**, organized by learning day and assignment.
+This repository documents my **IIT-M Data Analysis coursework**, organized systematically by **Day → Assignment → Code / Report / Data / Output**.
 
-The goal is not simply to store completed notebooks. Each assignment is treated as a small analytical project:
+The repository currently contains coursework from **Day 1 through Day 7**.
+
+The objective is not just to store files. Each assignment is organized to support a reproducible workflow:
 
 ```text
-Understand the problem
+Problem Understanding
         ↓
-Implement the solution
+Python Implementation / Analysis
         ↓
-Run & validate the analysis
+Validation
         ↓
-Interpret the results
+Interpretation
         ↓
-Document the work
+Report / Documentation
         ↓
-Commit to Git
+Git Version Control
 ```
 
-The repository documents completed coursework through **Day 6** and can continue to grow with future coursework, notebooks, reports, datasets, and analytical projects.
-
 ---
 
-## ✨ What I'm Learning
+# 📚 Coursework Overview
 
-<table>
-<tr>
-<td width="50%">
+| Day | Main Focus | Assignments | Status |
+|---|---|---:|---|
+| Day 1 | NumPy fundamentals and array slicing | 1 | 🟢 Completed |
+| Day 2 | Python basics, arrays and dictionaries | 1 | 🟢 Completed |
+| Day 3 | Python problem solving and data structures | 6 | 🟢 Completed |
+| Day 4 | Data analysis, EDA, statistics and mathematics | 8 | 🟢 Completed |
+| Day 5 | Linear algebra, tensors and PCA | 4 | 🟢 Completed |
+| Day 6 | Principal Component Analysis | 2 | 🟢 Completed |
+| **Day 7** | **Current coursework — 7 assignment folders** | **7** | **📁 Added to repository** |
 
-### 🐍 Python & Data Structures
-- Python fundamentals
-- Lists and dictionaries
-- Arrays and indexing
-- Functions and problem solving
-- File and data handling
-
-</td>
-<td width="50%">
-
-### 🔢 Numerical Computing
-- NumPy arrays
-- Array slicing
-- Vectorized operations
-- Numerical transformations
-- Tensor-related Python concepts
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧹 Data Analysis
-- Pandas
-- Data cleaning
-- Data transformation
-- Missing-value handling
-- CSV / Excel processing
-
-</td>
-<td>
-
-### 📈 Statistics & Visualization
-- Statistical analysis
-- Exploratory Data Analysis
-- Matplotlib
-- Seaborn
-- SciPy
-- Analytical interpretation
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧠 Dimensionality Reduction
-- Principal Component Analysis
-- Feature transformation
-- Variance analysis
-- Interpreting principal components
-
-</td>
-<td>
-
-### 🛠️ Development Workflow
-- Jupyter Notebook
-- VS Code
-- `uv`
-- Virtual environments
-- Git
-- GitHub
-- Reproducible projects
-
-</td>
-</tr>
-</table>
-
----
-
-# 📚 Coursework
-
-## Day 1 — NumPy Foundations
-
-| Assignment | Focus | Implementation |
-|---|---|---|
-| Assignment 1 | NumPy arrays & slicing | `numpy_array_slicing.ipynb` |
-
----
-
-## Day 2 — Python Fundamentals
-
-| Assignment | Focus | Implementation |
-|---|---|---|
-| Assignment 1 | Python basics, arrays & dictionaries | `python_basics_arrays_dictionaries.ipynb` |
-
----
-
-## Day 3 — Data Analysis Practice
-
-| Assignment | Status |
-|---|---|
-| Assignment 1 | 🟢 Completed |
-| Assignment 2 | 🟢 Completed |
-| Assignment 3 | 🟢 Completed |
-| Assignment 4 | 🟢 Completed |
-| Assignment 5 | 🟢 Completed |
-| Assignment 6 | 🟢 Completed |
-
-> **All Day 1–Day 6 assignments have been completed and are considered finished coursework in this repository.**
-
----
-
-## Day 4 — Clinical Data Analysis
-
-| Assignment | Focus |
-|---|---|
-| Assignment 1 | Patient / clinical data analysis |
-| `code/` | Analysis notebook |
-| `data/` | Assignment dataset |
-| `output/` | Generated analytical outputs |
-| `README.md` | Assignment documentation |
-
-> ⚠️ Any real or sensitive patient information must remain private and must never be pushed to a public repository without explicit authorization.
-
----
-
-## Day 5 — Advanced Analysis
-
-| Assignment | Focus | Current Artifact |
-|---|---|---|
-| Assignment 1 | Coursework solution | `report/Assignment_1_solu.docx` |
-| Assignment 2 | Coursework solution | `report/Assignment_2_solu.docx` |
-| Assignment 3 | Tensor + Python | `code/Assignment_3_Tensor_Python.ipynb` |
-| Assignment 4 | PCA | `report/Assignment_4_PCA_solu.docx` |
-
----
-
-## Day 6 — PCA
-
-| Assignment | Focus | Current Artifact |
-|---|---|---|
-| Assignment 1 | PCA | `report/Assignment 1 PCA.docx` |
-| Assignment 2 | PCA implementation | `code/Assignment_2_PCA.ipynb` |
+> **Days 1–6 are completed. Day 7 has been added to the repository structure with seven assignment folders.**
 
 ---
 
@@ -199,90 +67,317 @@ The repository documents completed coursework through **Day 6** and can continue
 ```text
 IIT-M/
 │
-├── 📁 Day 1/
-│   └── 📁 Assignment 1/
+├── Day 1/
+│   └── Assignment 1/
 │       ├── README.md
-│       └── 📁 code/
+│       └── code/
 │           └── numpy_array_slicing.ipynb
 │
-├── 📁 Day 2/
-│   └── 📁 Assignment 1/
+├── Day 2/
+│   └── Assignment 1/
 │       ├── README.md
-│       └── 📁 code/
+│       └── code/
 │           └── python_basics_arrays_dictionaries.ipynb
 │
-├── 📁 Day 3/
-│   ├── Assignment 1/
-│   ├── Assignment 2/
-│   ├── Assignment 3/
-│   ├── Assignment 4/
-│   ├── Assignment 5/
-│   └── Assignment 6/
+├── Day 3/
+│   ├── Assignment 1/ → report/
+│   ├── Assignment 2/ → report/
+│   ├── Assignment 3/ → report/
+│   ├── Assignment 4/ → report/
+│   ├── Assignment 5/ → code/
+│   └── Assignment 6/ → code/
 │
-├── 📁 Day 4/
-│   └── 📁 Assignment 1/
-│       ├── README.md
-│       ├── 📁 code/
-│       │   └── patient_clinical_data_analysis.ipynb
-│       ├── 📁 data/
-│       └── 📁 output/
+├── Day 4/
+│   ├── Assignment 1/ → Clinical Data Analysis
+│   ├── Assignment 2/ → E-Commerce Sales Analysis
+│   ├── Assignment 3/ → IoT Sensor Data Analysis
+│   ├── Assignment 4/ → Customer/Product/Order Analysis
+│   ├── Assignment 5/ → Linear Algebra MCQs
+│   ├── Assignment 6/ → Probability MCQs
+│   ├── Assignment 7/ → Statistics MCQs
+│   └── Assignment 8/ → Probability vs Statistics MCQs
 │
-├── 📁 Day 5/
-│   ├── 📁 Assignment 1/
-│   │   └── 📁 report/
-│   │       └── Assignment_1_solu.docx
-│   ├── 📁 Assignment 2/
-│   │   └── 📁 report/
-│   │       └── Assignment_2_solu.docx
-│   ├── 📁 Assignment 3/
-│   │   └── 📁 code/
-│   │       └── Assignment_3_Tensor_Python.ipynb
-│   └── 📁 Assignment 4/
-│       └── 📁 report/
-│           └── Assignment_4_PCA_solu.docx
+├── Day 5/
+│   ├── Assignment 1/ → report/
+│   ├── Assignment 2/ → report/
+│   ├── Assignment 3/ → code/
+│   └── Assignment 4/ → PCA report/
 │
-├── 📁 Day 6/
-│   ├── 📁 Assignment 1/
-│   │   └── 📁 report/
-│   │       └── Assignment 1 PCA.docx
-│   └── 📁 Assignment 2/
-│       └── 📁 code/
-│           └── Assignment_2_PCA.ipynb
+├── Day 6/
+│   ├── Assignment 1/ → PCA report/
+│   └── Assignment 2/ → PCA code/
+│
+├── Day 7/
+│   ├── Assignment 1/ → report/
+│   ├── Assignment 2/ → report/
+│   ├── Assignment 3/ → code/
+│   ├── Assignment 4/ → report/
+│   ├── Assignment 5/ → report/
+│   ├── Assignment 6/
+│   │   ├── code/
+│   │   └── report/
+│   └── Assignment 7/
+│       ├── code/
+│       └── report/
 │
 ├── .gitignore
 ├── .python-version
 ├── pyproject.toml
-├── README.md
 ├── requirements.txt
-└── uv.lock
+├── uv.lock
+└── README.md
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 🎯 Day-by-Day Coursework
 
-<div align="center">
+## 🟢 Day 1 — NumPy Foundations
 
-| Technology | Role |
-|---|---|
-| 🐍 **Python 3.12+** | Programming language |
-| 🔢 **NumPy** | Numerical computing |
-| 🐼 **Pandas** | Data manipulation |
-| 📊 **Matplotlib** | Visualization |
-| 🎨 **Seaborn** | Statistical visualization |
-| 🧮 **SciPy** | Scientific & statistical computing |
-| 📗 **OpenPyXL** | Excel processing |
-| 📓 **Jupyter** | Interactive analysis |
-| ⚡ **uv** | Environment & dependency management |
-| 🧑‍💻 **VS Code** | Development environment |
-| 🌿 **Git** | Version control |
-| 🐙 **GitHub** | Repository hosting |
+**Assignment 1**
 
-</div>
+- NumPy arrays
+- Array indexing
+- Array slicing
+- Basic numerical operations
+
+📓 `code/numpy_array_slicing.ipynb`
 
 ---
 
-# 🚀 Getting Started
+## 🟢 Day 2 — Python Fundamentals
+
+**Assignment 1**
+
+- Python fundamentals
+- Arrays
+- Dictionaries
+- Basic data structures
+
+📓 `code/python_basics_arrays_dictionaries.ipynb`
+
+---
+
+## 🟢 Day 3 — Python Practice & Problem Solving
+
+**6 Assignments Completed**
+
+| Assignment | Artifact |
+|---|---|
+| Assignment 1 | Report |
+| Assignment 2 | Report |
+| Assignment 3 | Report |
+| Assignment 4 | Report |
+| Assignment 5 | Python / Jupyter code |
+| Assignment 6 | Python / Jupyter code |
+
+Topics include practical Python problem-solving and working with data structures.
+
+---
+
+## 🟢 Day 4 — Data Analysis & Mathematical Foundations
+
+**8 Assignments Completed**
+
+### Assignment 1 — Clinical Data Analysis
+
+- Data cleaning
+- Patient data analysis
+- Department-level analysis
+- Readmission analysis
+- Data visualization
+
+### Assignment 2 — E-Commerce Sales Analysis
+
+- Data cleaning
+- Revenue analysis
+- Category analysis
+- City analysis
+- Monthly trends
+
+### Assignment 3 — IoT Sensor Data Analysis
+
+- Sensor data processing
+- Device analysis
+- Temperature analysis
+- Vibration analysis
+- Machine health
+- Maintenance priorities
+
+### Assignment 4 — Customer, Product & Order Analysis
+
+- Multi-table analysis
+- Customer spending
+- Revenue by category
+- Revenue by city
+- Monthly revenue
+- Customer ranking
+
+### Assignments 5–8 — Mathematical Foundations
+
+- Linear Algebra
+- Probability
+- Statistics
+- Probability vs Statistics
+
+---
+
+## 🟢 Day 5 — Linear Algebra, Tensors & PCA
+
+**4 Assignments Completed**
+
+| Assignment | Focus |
+|---|---|
+| Assignment 1 | Coursework solution |
+| Assignment 2 | Coursework solution |
+| Assignment 3 | Tensor concepts using Python |
+| Assignment 4 | Principal Component Analysis |
+
+---
+
+## 🟢 Day 6 — Principal Component Analysis
+
+**2 Assignments Completed**
+
+| Assignment | Focus |
+|---|---|
+| Assignment 1 | PCA concepts and analysis |
+| Assignment 2 | PCA implementation in Python |
+
+---
+
+# 🆕 Day 7 — Assignment Structure Added
+
+Day 7 is now part of the repository and contains **7 assignment folders**.
+
+| Assignment | Current Structure |
+|---|---|
+| Assignment 1 | `report/` |
+| Assignment 2 | `report/` |
+| Assignment 3 | `code/` |
+| Assignment 4 | `report/` |
+| Assignment 5 | `report/` |
+| Assignment 6 | `code/` + `report/` |
+| Assignment 7 | `code/` + `report/` |
+
+```text
+Day 7
+│
+├── Assignment 1
+│   └── report
+├── Assignment 2
+│   └── report
+├── Assignment 3
+│   └── code
+├── Assignment 4
+│   └── report
+├── Assignment 5
+│   └── report
+├── Assignment 6
+│   ├── code
+│   └── report
+└── Assignment 7
+    ├── code
+    └── report
+```
+
+> Assignment-specific topics and artifact names can be added to this README as the Day 7 files are populated.
+
+---
+
+# ✨ Skills Covered
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python
+- Fundamentals
+- Data structures
+- Dictionaries
+- Problem solving
+- Jupyter notebooks
+
+</td>
+<td width="50%">
+
+### 🔢 Numerical Computing
+- NumPy
+- Arrays
+- Array slicing
+- Vectorized operations
+- Tensor concepts
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📊 Data Analysis
+- Pandas
+- Data cleaning
+- Data transformation
+- CSV handling
+- Excel handling
+- Multi-table analysis
+
+</td>
+<td>
+
+### 📈 Visualization
+- Matplotlib
+- Seaborn
+- Trend analysis
+- Category comparisons
+- Analytical charts
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧮 Statistics & Mathematics
+- Statistics
+- Probability
+- Linear algebra
+- Statistical interpretation
+
+</td>
+<td>
+
+### 🧠 Dimensionality Reduction
+- PCA
+- Feature transformation
+- Explained variance
+- Principal components
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+| Technology | Purpose |
+|---|---|
+| 🐍 Python 3.12+ | Core programming |
+| ⚡ uv | Environment and dependency management |
+| 📓 Jupyter | Interactive notebooks |
+| 🔢 NumPy | Numerical computing |
+| 🐼 Pandas | Data manipulation |
+| 📊 Matplotlib | Visualization |
+| 🎨 Seaborn | Statistical visualization |
+| 🧮 SciPy | Scientific and statistical computing |
+| 📗 OpenPyXL | Excel handling |
+| 🌿 Git | Version control |
+| 🐙 GitHub | Repository hosting |
+
+---
+
+# 🚀 Setup
 
 ## 1. Clone the repository
 
@@ -291,7 +386,7 @@ git clone <your-repository-url>
 cd IIT-M
 ```
 
-## 2. Create the Python environment
+## 2. Create the environment
 
 ```powershell
 uv venv --python 3.12
@@ -309,38 +404,26 @@ uv venv --python 3.12
 uv pip install -r requirements.txt
 ```
 
-## 5. Verify dependencies
+## 5. Verify the environment
 
 ```powershell
 uv pip check
 ```
 
-## 6. Verify Python and core packages
+Verify core packages:
 
 ```powershell
 python -c "import pandas, numpy, matplotlib, seaborn, scipy; print('Environment OK')"
 ```
 
-Expected:
-
-```text
-Environment OK
-```
-
 ---
 
-# 📓 Configure Jupyter
+# 📓 Jupyter / VS Code
 
 Register the project environment as a Jupyter kernel:
 
 ```powershell
 python -m ipykernel install --user --name iitm-data-analysis --display-name "IIT-M Data Analysis"
-```
-
-Check installed kernels:
-
-```powershell
-jupyter kernelspec list
 ```
 
 Inside a notebook:
@@ -355,29 +438,29 @@ The interpreter should point to the project's `.venv`.
 
 ---
 
-# ▶️ Running an Assignment
+# 🧪 Recommended Assignment Workflow
 
-From the project root:
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-code .
+```text
+Objective
+   ↓
+Import Libraries
+   ↓
+Load Data
+   ↓
+Understand the Data
+   ↓
+Clean & Transform
+   ↓
+Analyze
+   ↓
+Visualize
+   ↓
+Interpret Results
+   ↓
+Document Findings
 ```
 
-Then:
-
-1. Open the required `Day X` folder.
-2. Open the required `Assignment Y`.
-3. Open the notebook inside `code/`.
-4. Select the **IIT-M Data Analysis** kernel.
-5. Run the notebook from top to bottom.
-6. Check outputs and warnings.
-7. Review the analytical conclusions.
-8. Save the notebook/report.
-9. Review Git changes.
-10. Commit the completed assignment.
-
-For data-driven notebooks, prefer relative paths:
+For data-driven assignments, use relative paths:
 
 ```python
 import pandas as pd
@@ -385,147 +468,57 @@ import pandas as pd
 df = pd.read_csv("data/your_dataset.csv")
 ```
 
-Avoid hard-coded machine-specific paths such as:
+Avoid hard-coded local paths:
 
 ```python
 # ❌ Avoid
-pd.read_csv(r"D:\IIT-M\Day 4\Assignment 1\data\data.csv")
+pd.read_csv(r"D:\IIT-M\Day 4\Assignment 1\data\dataset.csv")
 ```
 
 ---
 
-# 🧪 Recommended Notebook Architecture
-
-A consistent analytical structure is used wherever applicable:
+# 📈 PCA Workflow
 
 ```text
-01. Objective
-      ↓
-02. Import Libraries
-      ↓
-03. Load Dataset
-      ↓
-04. Understand the Dataset
-      ↓
-05. Data Cleaning
-      ↓
-06. Data Transformation
-      ↓
-07. Exploratory Data Analysis
-      ↓
-08. Statistical / Analytical Work
-      ↓
-09. Visualizations
-      ↓
-10. Key Findings
-      ↓
-11. Conclusion
-```
-
-### Markdown cells
-
-Use Markdown for:
-
-- Objectives
-- Explanations
-- Assumptions
-- Observations
-- Interpretation
-- Conclusions
-
-### Code cells
-
-Use Code cells for:
-
-- Data loading
-- Cleaning
-- Calculations
-- Analysis
-- Statistical operations
-- Visualization
-- Validation
-
----
-
-# 📊 PCA Workflow
-
-The PCA assignments follow the general analytical workflow:
-
-```text
-Raw Data
-   │
-   ▼
+Raw Dataset
+    │
+    ▼
 Data Cleaning
-   │
-   ▼
+    │
+    ▼
 Feature Selection
-   │
-   ▼
-Scaling / Standardization
-   │
-   ▼
-PCA
-   │
-   ├── Explained Variance
-   ├── Principal Components
-   └── Feature Contributions
-   │
-   ▼
+    │
+    ▼
+Standardization
+    │
+    ▼
+Principal Component Analysis
+    │
+    ├── Explained Variance
+    ├── Principal Components
+    └── Feature Contributions
+    │
+    ▼
 Visualization
-   │
-   ▼
+    │
+    ▼
 Interpretation
 ```
 
-The important part is not merely running PCA. The results must be interpreted in terms of **variance, dimensionality, and the information retained after transformation**.
-
----
-
-# 🔐 Data Privacy
-
-This repository may contain coursework involving datasets that resemble real-world clinical or personal data.
-
-**Never commit:**
-
-- Personally identifiable information
-- Patient identifiers
-- Medical records
-- Confidential company information
-- Passwords or API keys
-- Private credentials
-- Unauthorized proprietary datasets
-
-Before every push:
-
-```powershell
-git status
-```
-
-and inspect staged changes:
-
-```powershell
-git diff --cached
-```
-
-If sensitive information is accidentally committed, simply deleting it in a later commit is **not enough**. Git history may still contain it and the history may need to be rewritten.
+Running PCA is not the final objective. The result must be interpreted in terms of **dimensionality reduction, variance retention, and information preservation**.
 
 ---
 
 # 🌿 Git Workflow
 
-A clean assignment-level workflow:
-
 ```powershell
 # Check changes
 git status
 
-# Review the assignment
-git diff
-
-# Stage the assignment
+# Stage an assignment
 git add "Day X/Assignment Y"
 
-# Review staged files
+# Review staged changes
 git diff --cached
 
 # Commit
@@ -534,42 +527,63 @@ git commit -m "Complete Day X Assignment Y"
 # Push
 git push
 
-# Confirm clean working tree
+# Confirm status
 git status
 ```
 
-### Commit message examples
+Use meaningful commit messages:
 
 ```text
-Complete Day 5 Assignment 3
-Add PCA analysis for Day 6 Assignment 2
-Update Day 4 clinical data analysis
-Add report for Day 5 Assignment 4
+Complete Day 7 Assignment 1
+Add Day 7 Assignment 3 notebook
+Update PCA analysis for Day 6
+Add Day 7 assignment reports
 ```
 
-Avoid meaningless commits such as:
+Avoid meaningless commit messages such as:
 
 ```text
 update
+done
 final
 changes
-done
 test
 ```
 
-Good commit messages make the repository history useful.
+---
+
+# 🔐 Data & Privacy
+
+Never commit:
+
+- Personally identifiable information
+- Real patient identifiers
+- Confidential datasets
+- Passwords
+- API keys
+- Credentials
+- Private company information
+
+Before pushing:
+
+```powershell
+git status
+git diff --cached
+```
 
 ---
 
-# 📦 Dependency Management
+# 📦 Dependencies
 
 Dependencies are maintained in:
 
 ```text
 requirements.txt
+pyproject.toml
+uv.lock
 ```
 
-Core packages include:
+Core libraries include:
 
 ```text
 pandas
@@ -581,45 +595,9 @@ openpyxl
 scipy
 ```
 
-The project also contains:
-
-```text
-pyproject.toml
-uv.lock
-.python-version
-```
-
-The `.python-version` file keeps the project aligned with Python 3.12, while `uv` manages the development environment and dependencies.
-
 ---
 
-# 🧹 Git Hygiene
-
-The repository excludes common local/generated files:
-
-```text
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-*.pyc
-```
-
-Do not commit:
-
-```text
-.env
-credentials
-API keys
-private datasets
-temporary exports
-large unnecessary generated files
-```
-
-A clean repository is part of a good data-analysis project.
-
----
-
-# 📈 Progress
+# 📊 Progress
 
 ```text
 Day 1  ████████████████████  🟢 Completed
@@ -628,59 +606,22 @@ Day 3  ████████████████████  🟢 Comple
 Day 4  ████████████████████  🟢 Completed
 Day 5  ████████████████████  🟢 Completed
 Day 6  ████████████████████  🟢 Completed
+Day 7  ████████████████████  📁 Assignment structure added
 ```
-
-> **Coursework through Day 6 is complete.**
-
----
-
-# 🎯 Definition of Done
-
-An assignment should be considered **complete** only when:
-
-- [ ] Problem statement is understood
-- [ ] Code is implemented
-- [ ] Notebook runs successfully
-- [ ] No unexplained errors remain
-- [ ] Outputs have been reviewed
-- [ ] Analysis is logically correct
-- [ ] Findings are documented
-- [ ] Report is completed where required
-- [ ] Files are organized correctly
-- [ ] Sensitive data is excluded
-- [ ] Git changes are reviewed
-- [ ] Assignment is committed
-- [ ] Changes are pushed to GitHub
-
-This prevents the repository from becoming a collection of files that merely *look* finished.
 
 ---
 
 # 🗺️ Roadmap
 
-- [x] Establish Python + `uv` environment
-- [x] Organize Day 1–Day 6 coursework
-- [x] Add notebook/report structure
-- [x] Add Git workflow
-- [x] Complete all Day 3 assignments
-- [x] Complete all Day 5 assignments
-- [x] Complete all Day 6 assignments
-- [x] Organize assignment-level code and reports
-- [x] Validate coursework through Day 6
-- [ ] Continue expanding the data-analysis toolkit
-- [ ] Add selected assignments/projects to a broader portfolio
-
----
-
-# 💡 Project Philosophy
-
-> **Don't just make the code run. Make the analysis understandable, reproducible, and defensible.**
-
-The purpose of this repository is to demonstrate progression from basic Python programming toward practical data analysis.
-
-The focus is on:
-
-**Code → Data → Analysis → Visualization → Interpretation → Communication**
+- [x] Complete Day 1 coursework
+- [x] Complete Day 2 coursework
+- [x] Complete Day 3 coursework
+- [x] Complete Day 4 coursework
+- [x] Complete Day 5 coursework
+- [x] Complete Day 6 coursework
+- [x] Add Day 7 assignment structure
+- [ ] Populate and finalize Day 7 assignment artifacts
+- [ ] Continue expanding the data-analysis portfolio
 
 ---
 
@@ -692,7 +633,7 @@ The focus is on:
 
 **IIT-M Coursework • Python • Data Analysis • Statistics**
 
-This repository documents my learning journey through practical data-analysis assignments and related analytical work.
+Building practical analytical skills through structured coursework, reproducible notebooks, reports, and version-controlled projects.
 
 </div>
 
@@ -700,10 +641,8 @@ This repository documents my learning journey through practical data-analysis as
 
 <div align="center">
 
-### ⭐ If this repository becomes part of your portfolio, keep the work reproducible and the Git history clean.
+### 💡 Code → Data → Analysis → Visualization → Interpretation
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Animated footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" alt="Footer" />
 
 </div>
